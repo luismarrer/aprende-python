@@ -27,5 +27,5 @@ Este repositorio contiene los ejercicios, proyectos y notas del curso **"Aprende
 
 ## Recursos
 
-- [Curso en Matermind.ac] (https://mastermind.ac/home)
+- [Curso en Matermind.ac](https://mastermind.ac/home)
 - [Documentación Oficial de Python](https://docs.python.org/3/)
