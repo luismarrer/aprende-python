@@ -1,0 +1,22 @@
+¿Cuánto te gusta el queso?
+
+puntuacion = 0
+
+Pregunta 1: Que hacer cuando ves una tabla de quesos?
+A - Salgo corriendo
+B - Pruebo uno de los quesos o incluso varios
+C - No puedo evitar devorarla
+
+Pregunta 2: ¿Como te gusta la hamburguesa?
+A - Sin queso
+B - Con queso
+C - Pan y queso
+
+Pregunta 3: ¿Eres intolerante a la lactosa?
+A - Si
+B - A veces
+C - No
+
+- 25
+- 15
+- <15
