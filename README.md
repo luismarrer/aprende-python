@@ -11,7 +11,7 @@ Este repositorio contiene los ejercicios, proyectos y notas del curso **"Aprende
 - Crear aplicaciones e interfaces gráficas para interactuar con el usuario.
 - Aplicar el lenguaje Python en la resolución de problemas reales.
 
-## Contenido del Repositorio
+## Contenido del curso
 
 - **Módulo I: Primeros Pasos**
   - Lecciones sobre la sintaxis básica y herramientas necesarias para trabajar con Python.
@@ -29,3 +29,8 @@ Este repositorio contiene los ejercicios, proyectos y notas del curso **"Aprende
 
 - [Curso en Matermind.ac](https://mastermind.ac/home)
 - [Documentación Oficial de Python](https://docs.python.org/3/)
+
+## Estructura del repositorio
+
+CursoDePython (Son todos los ejercicios del primer modulo)
+parte_2_python (El segundo modulo)

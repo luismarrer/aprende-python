@@ -10,4 +10,4 @@ if user_num > 10:
     print("Te has pasado un poco.")
 if user_num < 1:
     print("Te has quedado corto")
-print(f"el número ganador era {win_num}")
+print(f"El número ganador era {win_num}")
