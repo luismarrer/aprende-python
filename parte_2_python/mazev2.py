@@ -4,7 +4,6 @@ from random import randint
 
 POS_X = 0
 POS_Y = 1
-
 NUM_OF_MAP_OBJECTS = 11
 obstacle_definition = """\
 ###########################
