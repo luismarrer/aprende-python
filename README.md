@@ -33,9 +33,9 @@ Este repositorio contiene los ejercicios, proyectos y notas del curso **"Aprende
 
 ## Estructura del repositorio
 
-CursoDePython (Son todos los ejercicios del primer modulo) 
+CursoDePython (Son todos los ejercicios del primer módulo) 
 
 
-parte_2_python (El segundo modulo)
+parte_2_python (Segundo módulo)
 
-modulo_funciones (El rey de las funciones) 
+modulo_funciones (El rey de las funciones - tercer módulo) 
